@@ -1,2 +1,5 @@
-﻿  paddle.cpp
+﻿  HighScores.cpp
+  Scoreboard.cpp
+  game.cpp
+C:\Users\miche\Downloads\Breakout_Assignment_Scores_Fixed\Breakout_Assignment_Scores_Fixed\Scoreboard.cpp(7,56): warning C4100: 'screenHeight': unreferenced parameter
   HelloWorld.vcxproj -> C:\Users\miche\Downloads\Breakout_Assignment_Scores_Fixed\Breakout_Assignment_Scores_Fixed\Build\x64\Debug\HelloWorld.exe
